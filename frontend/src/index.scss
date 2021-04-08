@@ -1,0 +1,17 @@
+/* TODO Add site wide styles */
+.navbar {
+    display: flex;
+
+    ul {
+        display: flex;
+        justify-content: space-between;
+        width: 90%;
+        li {
+            list-style: none;
+            font-size: 2rem;
+            
+        }
+    }
+}
+
+
